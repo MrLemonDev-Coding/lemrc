@@ -1,0 +1,18 @@
+This is the lemrc source code.
+LemonDev (a.k.a Adam) made this alone.
+
+Feel free to ask any question or give any tips by direct messaging lem.dev_ on discord.
+Feel free to use this to create your own terminal. (credits will be appreciated but not forced.)
+
+!!!IMPORTANT NOTE!!!
+lemrc is in very large developement as the developer LemonDev (me) is alone developing this custom terminal everything made is by me, if you wanna credit me just add a comment in your scripts at the top saying 'based on lemrc' or just a credits.txt file saying 'based on lemrc', updates will come shortly and i will try my best to make more commands and make lemrc more optimized so please wait for updates and give me tips by messaging me on discord, my discord is in the 5th line. I will also try to find a team or more developers to help me make lemrc better and update it faster and more.
+
+Infos below
+developer(s): LemonDev
+language(s): Python
+created: 3/19/25
+planned: 1/4/25
+developement time: 32m
+created on: Arch Linux
+IDE: VSCode
+DE: KDE Plasma
